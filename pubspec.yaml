@@ -72,11 +72,10 @@ flutter:
         - asset: assets/fonts/OpenSans-VariableFont_wdth,wght.ttf
     - family: Lato
       fonts:
-        - asset: assets/fonts/
+        - asset: assets/fonts/Lato-Light.ttf
     - family: Ubuntu
       fonts:
-        - asset: assets/fonts/
-
+        - asset: assets/fonts/Ubuntu-Regular.ttf
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
